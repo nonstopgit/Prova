@@ -88,7 +88,7 @@ class __TwigTemplate_8d6576f5599bee03c2ffe8a42001c6631016ebaf85b64a356fc12035a74
 
       <div class=\"container\">
         <div class=\"row\">
-            <div class=\"col-12 col-lg-3 sub\">
+            <div class=\"col-12 col-lg-4 sub\">
                 ";
         // line 17
         $context['__cms_partial_params'] = [];
@@ -159,7 +159,7 @@ class __TwigTemplate_8d6576f5599bee03c2ffe8a42001c6631016ebaf85b64a356fc12035a74
 
       <div class=\"container\">
         <div class=\"row\">
-            <div class=\"col-12 col-lg-3 sub\">
+            <div class=\"col-12 col-lg-4 sub\">
                 {% partial 'dejavnosti-submenu' %}
             </div>
             <div class=\"col-12 col-lg-8\">
