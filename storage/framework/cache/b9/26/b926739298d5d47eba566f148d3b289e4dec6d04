@@ -1,0 +1,29 @@
+1602163160a:1:{s:12:"car-list.htm";a:7:{s:8:"fileName";s:12:"car-list.htm";s:7:"content";s:348:"[viewBag]
+title = "Vehicle list"
+url = "/vehicle-list"
+layout = "default"
+is_hidden = 0
+navigation_hidden = 0
+==
+<h1>Car list</h1>
+<div class="row">
+	<div class="col-12 col-lg-7 vehiclelist">
+		<figure data-snippet="vehicle-list">&nbsp;</figure>
+	</div>
+	<div class="col-12 col-lg-5">
+		<figure data-snippet="benefits">&nbsp;</figure>
+	</div></div>";s:5:"mtime";i:1601278887;s:6:"markup";s:235:"<h1>Car list</h1>
+<div class="row">
+	<div class="col-12 col-lg-7 vehiclelist">
+		<figure data-snippet="vehicle-list">&nbsp;</figure>
+	</div>
+	<div class="col-12 col-lg-5">
+		<figure data-snippet="benefits">&nbsp;</figure>
+	</div></div>";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:12:"Vehicle list";s:3:"url";s:13:"/vehicle-list";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:235:"<h1>Car list</h1>
+<div class="row">
+	<div class="col-12 col-lg-7 vehiclelist">
+		<figure data-snippet="vehicle-list">&nbsp;</figure>
+	</div>
+	<div class="col-12 col-lg-5">
+		<figure data-snippet="benefits">&nbsp;</figure>
+	</div></div>";}}

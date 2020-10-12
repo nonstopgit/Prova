@@ -1,0 +1,107 @@
+items:
+    -
+        title: 'Varnost in zdravje pri delu'
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: dejavnosti-varnost-zdravje-pri-delu
+        replace: 0
+        viewBag:
+            locale:
+                en:
+                    title: ''
+                    url: ''
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: 'Požarna varnost'
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: dejavnosti-pozarna-varnost
+        replace: 0
+        viewBag:
+            locale:
+                en:
+                    title: ''
+                    url: ''
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Koordinatorstvo
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: dejavnosti-koordinatorstvo
+        replace: 0
+        viewBag:
+            locale:
+                en:
+                    title: ''
+                    url: ''
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: 'Varno delo s kemikalijami'
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: dejavnosti-varno-delo-s-kemikalijami
+        replace: 0
+        viewBag:
+            locale:
+                en:
+                    title: ''
+                    url: ''
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Izvedeništvo
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: dejavnosti-izvedenistvo
+        replace: 0
+        viewBag:
+            locale:
+                en:
+                    title: ''
+                    url: ''
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: 'Meritve elektroinštalacij'
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: dejavnosti-meritve-elektroinstalacij
+        replace: 0
+        viewBag:
+            locale:
+                en:
+                    title: ''
+                    url: ''
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: 'Izdelava HACCP načrtov in verifikacija'
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: dejavnosti-izdelava-haccp-nacrtov-verifikacija
+        replace: 0
+        viewBag:
+            locale:
+                en:
+                    title: ''
+                    url: ''
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+name: dejavnosti-submenu-sl

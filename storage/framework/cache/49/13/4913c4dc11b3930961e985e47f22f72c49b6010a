@@ -1,0 +1,77 @@
+1602163160a:1:{s:11:"contact.htm";a:7:{s:8:"fileName";s:11:"contact.htm";s:7:"content";s:563:"[viewBag]
+title = "Contact"
+url = "/contactx"
+layout = "default"
+is_hidden = 0
+navigation_hidden = 0
+==
+<div class="row">
+	<div class="col-12 col-lg-6">
+
+		<p>
+			<br>
+		</p>
+
+		<h2>Alara d.o.o.</h2>Seidlova cesta 11
+		<br>8000 Novo mesto
+		<br>Slovenia
+		<br>
+		<br>Phone: +386 (0)7 39 34 456
+		<br>
+		<br>Fax: +386 (0)7 39 34 460
+		<br>
+		<br>E-mail: <a href="mailto:info@solodiesel.eu">info@solodiesel.eu</a>
+
+		<p>
+			<br>
+		</p>
+	</div>
+	<div class="col-12 col-lg-6">
+		<figure data-snippet="contact-form">&nbsp;</figure>
+	</div></div>";s:5:"mtime";i:1601282664;s:6:"markup";s:459:"<div class="row">
+	<div class="col-12 col-lg-6">
+
+		<p>
+			<br>
+		</p>
+
+		<h2>Alara d.o.o.</h2>Seidlova cesta 11
+		<br>8000 Novo mesto
+		<br>Slovenia
+		<br>
+		<br>Phone: +386 (0)7 39 34 456
+		<br>
+		<br>Fax: +386 (0)7 39 34 460
+		<br>
+		<br>E-mail: <a href="mailto:info@solodiesel.eu">info@solodiesel.eu</a>
+
+		<p>
+			<br>
+		</p>
+	</div>
+	<div class="col-12 col-lg-6">
+		<figure data-snippet="contact-form">&nbsp;</figure>
+	</div></div>";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:7:"Contact";s:3:"url";s:9:"/contactx";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:459:"<div class="row">
+	<div class="col-12 col-lg-6">
+
+		<p>
+			<br>
+		</p>
+
+		<h2>Alara d.o.o.</h2>Seidlova cesta 11
+		<br>8000 Novo mesto
+		<br>Slovenia
+		<br>
+		<br>Phone: +386 (0)7 39 34 456
+		<br>
+		<br>Fax: +386 (0)7 39 34 460
+		<br>
+		<br>E-mail: <a href="mailto:info@solodiesel.eu">info@solodiesel.eu</a>
+
+		<p>
+			<br>
+		</p>
+	</div>
+	<div class="col-12 col-lg-6">
+		<figure data-snippet="contact-form">&nbsp;</figure>
+	</div></div>";}}

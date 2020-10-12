@@ -1,0 +1,41 @@
+1602521154a:1:{s:27:"dejavnosti-izvedenistvo.htm";a:7:{s:8:"fileName";s:27:"dejavnosti-izvedenistvo.htm";s:7:"content";s:468:"[viewBag]
+title = "Izvedeništvo"
+url = "/dejavnosti/izvedenistvo"
+layout = "dejavnosti"
+is_hidden = 0
+navigation_hidden = 0
+==
+<div class="emp">
+
+	<p>Izdelava izvedeniških mnenj v primeru nezgode pri delu v postopku kazenske ali odškodninske odgovornosti.
+		<br>
+		<br>Sodno izvedeniško mnenje izdelamo na podlagi:</p>
+
+	<ul>
+		<li>imenovanja sodišča,</li>
+		<li>po naročilu pravne osebe ali</li>
+		<li>po naročilu fizične osebe,</li>
+	</ul>
+</div>";s:5:"mtime";i:1602520526;s:6:"markup";s:340:"<div class="emp">
+
+	<p>Izdelava izvedeniških mnenj v primeru nezgode pri delu v postopku kazenske ali odškodninske odgovornosti.
+		<br>
+		<br>Sodno izvedeniško mnenje izdelamo na podlagi:</p>
+
+	<ul>
+		<li>imenovanja sodišča,</li>
+		<li>po naročilu pravne osebe ali</li>
+		<li>po naročilu fizične osebe,</li>
+	</ul>
+</div>";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:13:"Izvedeništvo";s:3:"url";s:24:"/dejavnosti/izvedenistvo";s:6:"layout";s:10:"dejavnosti";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:340:"<div class="emp">
+
+	<p>Izdelava izvedeniških mnenj v primeru nezgode pri delu v postopku kazenske ali odškodninske odgovornosti.
+		<br>
+		<br>Sodno izvedeniško mnenje izdelamo na podlagi:</p>
+
+	<ul>
+		<li>imenovanja sodišča,</li>
+		<li>po naročilu pravne osebe ali</li>
+		<li>po naročilu fizične osebe,</li>
+	</ul>
+</div>";}}

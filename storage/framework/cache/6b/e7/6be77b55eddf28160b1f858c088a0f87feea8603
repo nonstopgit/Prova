@@ -1,0 +1,233 @@
+1602520704a:1:{s:9:"index.htm";a:7:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:3482:"[viewBag]
+title = "Home"
+url = "/"
+layout = "home"
+is_hidden = 0
+navigation_hidden = 0
+slider[0][slidercaption] = "<p>Diesel Engine Protection</p>"
+slider[0][slide] = "/images/slider/solodiesel-1.jpg"
+slider[1][slidercaption] = "<p>Diesel Engine Protection</p>"
+slider[1][slide] = "/images/slider/solodiesel-2.jpg"
+slider[2][slidercaption] = "<p>Diesel Engine Protection</p>"
+slider[2][slide] = "/images/slider/solodiesel-3.jpg"
+==
+<div class="row justify-content-center text-center dejavnosti">
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/varnost-zdravje-pri-delu" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/varnost-in-zdravje-pri-delu-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Varnost in zdravje<br>pri delu</h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/pozarna-varnost" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/pozarna-varnost-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Požarna varnost<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/koordinatorstvo" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/koordinatorstvo-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Koordinatorstvo<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/varno-delo-s-kemikalijami" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/varno-delo-s-kemikalijami-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Varno delo<br>s kemikalijami</h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/izvedenistvo" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/izvedenistvo-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Izvedeništvo<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/meritve-elektroinstalacij" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/meritve-elektroinstalacij-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Meritve<br>elektroinstalacij</h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/izdelava-haccp-nacrtov-verifikacija" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/haccp-nacrti-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">HACCP načrti<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/podjetje" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/podjetje-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Podjetje<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+</div>";s:5:"mtime";i:1602513774;s:6:"markup";s:3037:"<div class="row justify-content-center text-center dejavnosti">
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/varnost-zdravje-pri-delu" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/varnost-in-zdravje-pri-delu-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Varnost in zdravje<br>pri delu</h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/pozarna-varnost" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/pozarna-varnost-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Požarna varnost<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/koordinatorstvo" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/koordinatorstvo-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Koordinatorstvo<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/varno-delo-s-kemikalijami" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/varno-delo-s-kemikalijami-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Varno delo<br>s kemikalijami</h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/izvedenistvo" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/izvedenistvo-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Izvedeništvo<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/meritve-elektroinstalacij" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/meritve-elektroinstalacij-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Meritve<br>elektroinstalacij</h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/izdelava-haccp-nacrtov-verifikacija" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/haccp-nacrti-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">HACCP načrti<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/podjetje" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/podjetje-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Podjetje<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+</div>";s:4:"code";N;s:7:"viewBag";a:6:{s:5:"title";s:4:"Home";s:3:"url";s:1:"/";s:6:"layout";s:4:"home";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";s:6:"slider";a:3:{i:0;a:2:{s:13:"slidercaption";s:31:"<p>Diesel Engine Protection</p>";s:5:"slide";s:31:"/images/slider/solodiesel-1.jpg";}i:1;a:2:{s:13:"slidercaption";s:31:"<p>Diesel Engine Protection</p>";s:5:"slide";s:31:"/images/slider/solodiesel-2.jpg";}i:2;a:2:{s:13:"slidercaption";s:31:"<p>Diesel Engine Protection</p>";s:5:"slide";s:31:"/images/slider/solodiesel-3.jpg";}}}s:12:"parsedMarkup";s:3037:"<div class="row justify-content-center text-center dejavnosti">
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/varnost-zdravje-pri-delu" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/varnost-in-zdravje-pri-delu-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Varnost in zdravje<br>pri delu</h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/pozarna-varnost" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/pozarna-varnost-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Požarna varnost<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/koordinatorstvo" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/koordinatorstvo-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Koordinatorstvo<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/varno-delo-s-kemikalijami" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/varno-delo-s-kemikalijami-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Varno delo<br>s kemikalijami</h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/izvedenistvo" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/izvedenistvo-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Izvedeništvo<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/meritve-elektroinstalacij" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/meritve-elektroinstalacij-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Meritve<br>elektroinstalacij</h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/dejavnosti/izdelava-haccp-nacrtov-verifikacija" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/haccp-nacrti-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">HACCP načrti<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+	<div class="col-12 col-md-6 col-lg-4 p-0">
+		<a href="/podjetje" class="stretched-link">
+		<div class="card"><img src="/storage/app/media/dejavnosti/podjetje-prova.jpg" class="card-img-top fr-fic fr-dii">
+			<div class="card-img-overlay">
+				<h2 class="card-title">Podjetje<br><br></h2>
+			</div>
+		</div>
+		</a>
+	</div>
+</div>";}}

@@ -1,0 +1,30 @@
+1602520705a:1:{s:16:"contact-form.htm";a:8:{s:8:"fileName";s:16:"contact-form.htm";s:7:"content";s:902:"description = "Contact form"
+
+[viewBag]
+snippetCode = "contact-form"
+snippetName = "Contact form"
+
+[genericForm]
+rules[name] = "required"
+rules[phone] = "required"
+rules[email] = "required"
+rules[message] = "required"
+rules_messages[name.required] = "Please enter your name"
+rules_messages[phone.required] = "Please enter your phone"
+rules_messages[email.required] = "Please enter your e-mail"
+rules_messages[message.required] = "Please enter your message"
+messages_success = "Your form was successfully submitted"
+messages_errors = "There were errors with your submission"
+mail_enabled = 1
+mail_subject = "New message from Solodiesel"
+mail_replyto = "{{ form.email }}"
+reset_form = 1
+inline_errors = "display"
+sanitize_data = "disabled"
+anonymize_ip = "disabled"
+recaptcha_theme = "light"
+recaptcha_type = "image"
+recaptcha_size = "normal"
+emails_date_format = "Y-m-d"
+==
+{% component 'genericForm' %}";s:5:"mtime";i:1601282264;s:6:"markup";s:29:"{% component 'genericForm' %}";s:4:"code";N;s:11:"description";s:12:"Contact form";s:7:"viewBag";a:2:{s:11:"snippetCode";s:12:"contact-form";s:11:"snippetName";s:12:"Contact form";}s:11:"genericForm";a:15:{s:5:"rules";a:4:{s:4:"name";s:8:"required";s:5:"phone";s:8:"required";s:5:"email";s:8:"required";s:7:"message";s:8:"required";}s:14:"rules_messages";a:4:{s:13:"name.required";s:22:"Please enter your name";s:14:"phone.required";s:23:"Please enter your phone";s:14:"email.required";s:24:"Please enter your e-mail";s:16:"message.required";s:25:"Please enter your message";}s:16:"messages_success";s:36:"Your form was successfully submitted";s:15:"messages_errors";s:38:"There were errors with your submission";s:12:"mail_enabled";s:1:"1";s:12:"mail_subject";s:27:"New message from Solodiesel";s:12:"mail_replyto";s:16:"{{ form.email }}";s:10:"reset_form";s:1:"1";s:13:"inline_errors";s:7:"display";s:13:"sanitize_data";s:8:"disabled";s:12:"anonymize_ip";s:8:"disabled";s:15:"recaptcha_theme";s:5:"light";s:14:"recaptcha_type";s:5:"image";s:14:"recaptcha_size";s:6:"normal";s:18:"emails_date_format";s:5:"Y-m-d";}}}

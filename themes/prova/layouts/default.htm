@@ -1,0 +1,33 @@
+description = "default"
+
+[staticPage]
+useContent = 1
+default = 1
+==
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% partial 'head' %}
+  </head>
+  <body>
+    <header>
+      {% partial 'navbar' %}
+      {% partial 'header-title' %}
+    </header>
+
+    <section id="page">
+
+      <div class="container">
+        {% page %}
+      </div>
+
+    </section>
+
+    <footer>
+      {% partial 'footer' %}
+    </footer>
+
+    {% partial 'scripts' %}
+
+  </body>
+</html>

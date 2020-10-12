@@ -1,0 +1,31 @@
+1602520705a:1:{s:12:"benefits.htm";a:6:{s:8:"fileName";s:12:"benefits.htm";s:7:"content";s:639:"[viewBag]
+snippetCode = "benefits"
+snippetName = "Benefits"
+==
+<div class="benefits">
+    <h3>Benefits</h3>
+    <p>Comfortable fuelling</p>
+    <p>Quick and clean fuelling</p>
+    <p>Economical misfuelling prevention cap</p>
+    <p>SoloDiesel also protects the environment</p>
+    <p>Insurance companies reimburse for only a part of costs</p>
+    {#<p>Physically prevents misfuelling</p>
+    <p>Saves money &amp; trouble</p>
+    <p>Easy to install &amp; faster fuelling</p>
+    <p>Complies to all EEC standards</p>
+    <p>Potentially lower insurance premiums</p>
+    <p>Environmental benefits...no waste &amp; no contamination</p>#}
+</div>";s:5:"mtime";i:1601904225;s:6:"markup";s:576:"<div class="benefits">
+    <h3>Benefits</h3>
+    <p>Comfortable fuelling</p>
+    <p>Quick and clean fuelling</p>
+    <p>Economical misfuelling prevention cap</p>
+    <p>SoloDiesel also protects the environment</p>
+    <p>Insurance companies reimburse for only a part of costs</p>
+    {#<p>Physically prevents misfuelling</p>
+    <p>Saves money &amp; trouble</p>
+    <p>Easy to install &amp; faster fuelling</p>
+    <p>Complies to all EEC standards</p>
+    <p>Potentially lower insurance premiums</p>
+    <p>Environmental benefits...no waste &amp; no contamination</p>#}
+</div>";s:4:"code";N;s:7:"viewBag";a:2:{s:11:"snippetCode";s:8:"benefits";s:11:"snippetName";s:8:"Benefits";}}}

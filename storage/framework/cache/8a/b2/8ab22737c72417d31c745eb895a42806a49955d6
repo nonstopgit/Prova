@@ -1,0 +1,73 @@
+1602520746a:1:{s:14:"dejavnosti.htm";a:7:{s:8:"fileName";s:14:"dejavnosti.htm";s:7:"content";s:690:"description = "Dejavnosti"
+
+[staticPage]
+useContent = 1
+default = 0
+==
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% partial 'head' %}
+  </head>
+  <body>
+    <header>
+      {% partial 'navbar' %}
+      {% partial 'header-title' %}
+    </header>
+
+    <section id="page">
+
+      <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-3 sub">
+                {% partial 'dejavnosti-submenu' %}
+            </div>
+            <div class="col-12 col-lg-8">
+                {% page %}
+            </div>
+        </div>        
+      </div>
+
+    </section>
+
+    <footer>
+      {% partial 'footer' %}
+    </footer>
+
+    {% partial 'scripts' %}
+
+  </body>
+</html>";s:5:"mtime";i:1602520143;s:6:"markup";s:619:"<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% partial 'head' %}
+  </head>
+  <body>
+    <header>
+      {% partial 'navbar' %}
+      {% partial 'header-title' %}
+    </header>
+
+    <section id="page">
+
+      <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-3 sub">
+                {% partial 'dejavnosti-submenu' %}
+            </div>
+            <div class="col-12 col-lg-8">
+                {% page %}
+            </div>
+        </div>        
+      </div>
+
+    </section>
+
+    <footer>
+      {% partial 'footer' %}
+    </footer>
+
+    {% partial 'scripts' %}
+
+  </body>
+</html>";s:4:"code";N;s:11:"description";s:10:"Dejavnosti";s:10:"staticPage";a:2:{s:10:"useContent";s:1:"1";s:7:"default";s:1:"0";}}}

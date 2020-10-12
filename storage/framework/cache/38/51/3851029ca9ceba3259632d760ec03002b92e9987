@@ -1,0 +1,78 @@
+1602513352a:1:{s:11:"contact.htm";a:10:{s:8:"fileName";s:11:"contact.htm";s:7:"content";s:1393:"title = "Contact"
+url = "/contact"
+layout = "default"
+is_hidden = 0
+
+[genericForm]
+rules[name] = "required"
+rules[phone] = "required"
+rules[email] = "required|email"
+rules[message] = "required"
+rules_messages[name.required] = "Please enter your name"
+rules_messages[phone.required] = "Please enter your phone"
+rules_messages[email.required] = "Please enter your e-mail"
+rules_messages[message.required] = "Please enter your message"
+messages_success = "Your form was successfully submitted"
+messages_errors = "There were errors with your submission"
+mail_enabled = 1
+mail_subject = "Solodiesel - New message from {{ form.name }}"
+mail_recipients[] = "info@solodiesel.eu"
+mail_bcc[] = "sasa@eve.si"
+mail_replyto = "{{ form.email }}"
+reset_form = 1
+inline_errors = "display"
+sanitize_data = "disabled"
+anonymize_ip = "disabled"
+recaptcha_enabled = 1
+recaptcha_theme = "dark"
+recaptcha_type = "image"
+recaptcha_size = "normal"
+emails_date_format = "Y-m-d"
+==
+<div class="row">
+	<div class="col-12 col-lg-6">
+
+		<p>
+			<br>
+		</p>
+
+		<h2>Alara d.o.o.</h2>Seidlova cesta 11
+		<br>8000 Novo mesto
+		<br>Slovenia
+		<br>
+		<br>Phone: +386 (0)7 39 34 456
+		<br>
+		<br>Fax: +386 (0)7 39 34 460
+		<br>
+		<br>E-mail: <a href="mailto:info@solodiesel.eu">info@solodiesel.eu</a>
+
+		<p>
+			<br>
+		</p>
+	</div>
+	<div class="col-12 col-lg-6">
+		{% component 'genericForm' %}
+	</div></div>";s:5:"mtime";i:1602135199;s:6:"markup";s:437:"<div class="row">
+	<div class="col-12 col-lg-6">
+
+		<p>
+			<br>
+		</p>
+
+		<h2>Alara d.o.o.</h2>Seidlova cesta 11
+		<br>8000 Novo mesto
+		<br>Slovenia
+		<br>
+		<br>Phone: +386 (0)7 39 34 456
+		<br>
+		<br>Fax: +386 (0)7 39 34 460
+		<br>
+		<br>E-mail: <a href="mailto:info@solodiesel.eu">info@solodiesel.eu</a>
+
+		<p>
+			<br>
+		</p>
+	</div>
+	<div class="col-12 col-lg-6">
+		{% component 'genericForm' %}
+	</div></div>";s:4:"code";N;s:5:"title";s:7:"Contact";s:3:"url";s:8:"/contact";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:11:"genericForm";a:18:{s:5:"rules";a:4:{s:4:"name";s:8:"required";s:5:"phone";s:8:"required";s:5:"email";s:14:"required|email";s:7:"message";s:8:"required";}s:14:"rules_messages";a:4:{s:13:"name.required";s:22:"Please enter your name";s:14:"phone.required";s:23:"Please enter your phone";s:14:"email.required";s:24:"Please enter your e-mail";s:16:"message.required";s:25:"Please enter your message";}s:16:"messages_success";s:36:"Your form was successfully submitted";s:15:"messages_errors";s:38:"There were errors with your submission";s:12:"mail_enabled";s:1:"1";s:12:"mail_subject";s:45:"Solodiesel - New message from {{ form.name }}";s:15:"mail_recipients";a:1:{i:0;s:18:"info@solodiesel.eu";}s:8:"mail_bcc";a:1:{i:0;s:11:"sasa@eve.si";}s:12:"mail_replyto";s:16:"{{ form.email }}";s:10:"reset_form";s:1:"1";s:13:"inline_errors";s:7:"display";s:13:"sanitize_data";s:8:"disabled";s:12:"anonymize_ip";s:8:"disabled";s:17:"recaptcha_enabled";s:1:"1";s:15:"recaptcha_theme";s:4:"dark";s:14:"recaptcha_type";s:5:"image";s:14:"recaptcha_size";s:6:"normal";s:18:"emails_date_format";s:5:"Y-m-d";}}}

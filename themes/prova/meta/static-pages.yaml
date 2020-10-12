@@ -1,0 +1,13 @@
+static-pages:
+    index: {  }
+    dejavnosti:
+        dejavnosti-varnost-zdravje-pri-delu: {  }
+        dejavnosti-pozarna-varnost: {  }
+        dejavnosti-koordinatorstvo: {  }
+        dejavnosti-varno-delo-s-kemikalijami: {  }
+        dejavnosti-izvedenistvo: {  }
+        dejavnosti-meritve-elektroinstalacij: {  }
+        dejavnosti-izdelava-haccp-nacrtov-verifikacija: {  }
+    reference: {  }
+    povezave: {  }
+    podjetje: {  }

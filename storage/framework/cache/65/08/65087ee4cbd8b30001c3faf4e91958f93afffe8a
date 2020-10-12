@@ -1,0 +1,66 @@
+1602520704a:1:{s:12:"podjetje.htm";a:7:{s:8:"fileName";s:12:"podjetje.htm";s:7:"content";s:954:"[viewBag]
+title = "Podjetje"
+url = "/podjetje"
+layout = "default"
+is_hidden = 0
+navigation_hidden = 0
+==
+<div class="row">
+	<div class="col-12 col-md-6">
+		<h2>PROVA d.o.o.</h2>
+
+		<p>Ulica Slavka Gruma 86
+			<br>8000 Novo mesto</p>
+		
+		<p><strong>Tel.:</strong> 07 / 33 25 969
+			<br><strong>GSM:</strong> 041 / 671 461
+			<br><strong>e-pošta:</strong> <a href="mailto:prova@prova.si">prova@prova.si</a></p>
+		
+		<p><strong>Matična številka:&nbsp;</strong>627865000
+			<br><strong>Identifikacijska številka:</strong> SI81189516
+			<br><strong>Šifra dejavnosti:</strong> 70.220
+			<br><strong>Transakcijski račun:</strong> 03150-1000729869 (pri SKB d.d.)</p>
+	</div>
+	<div class="col-12 col-md-6">
+		<a href="http://zemljevid.najdi.si/search_maps.jsp?q=Ulica+Slavka+Gruma+86&tab=maps" target="_blank"><img src="/storage/app/media/lokacija-najdisi.jpg" class="img-fluid" alt="Lokacija - Prova d.o.o."></a>
+	</div>
+</div>
+";s:5:"mtime";i:1602511319;s:6:"markup";s:840:"<div class="row">
+	<div class="col-12 col-md-6">
+		<h2>PROVA d.o.o.</h2>
+
+		<p>Ulica Slavka Gruma 86
+			<br>8000 Novo mesto</p>
+		
+		<p><strong>Tel.:</strong> 07 / 33 25 969
+			<br><strong>GSM:</strong> 041 / 671 461
+			<br><strong>e-pošta:</strong> <a href="mailto:prova@prova.si">prova@prova.si</a></p>
+		
+		<p><strong>Matična številka:&nbsp;</strong>627865000
+			<br><strong>Identifikacijska številka:</strong> SI81189516
+			<br><strong>Šifra dejavnosti:</strong> 70.220
+			<br><strong>Transakcijski račun:</strong> 03150-1000729869 (pri SKB d.d.)</p>
+	</div>
+	<div class="col-12 col-md-6">
+		<a href="http://zemljevid.najdi.si/search_maps.jsp?q=Ulica+Slavka+Gruma+86&tab=maps" target="_blank"><img src="/storage/app/media/lokacija-najdisi.jpg" class="img-fluid" alt="Lokacija - Prova d.o.o."></a>
+	</div>
+</div>";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:8:"Podjetje";s:3:"url";s:9:"/podjetje";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:840:"<div class="row">
+	<div class="col-12 col-md-6">
+		<h2>PROVA d.o.o.</h2>
+
+		<p>Ulica Slavka Gruma 86
+			<br>8000 Novo mesto</p>
+		
+		<p><strong>Tel.:</strong> 07 / 33 25 969
+			<br><strong>GSM:</strong> 041 / 671 461
+			<br><strong>e-pošta:</strong> <a href="mailto:prova@prova.si">prova@prova.si</a></p>
+		
+		<p><strong>Matična številka:&nbsp;</strong>627865000
+			<br><strong>Identifikacijska številka:</strong> SI81189516
+			<br><strong>Šifra dejavnosti:</strong> 70.220
+			<br><strong>Transakcijski račun:</strong> 03150-1000729869 (pri SKB d.d.)</p>
+	</div>
+	<div class="col-12 col-md-6">
+		<a href="http://zemljevid.najdi.si/search_maps.jsp?q=Ulica+Slavka+Gruma+86&tab=maps" target="_blank"><img src="/storage/app/media/lokacija-najdisi.jpg" class="img-fluid" alt="Lokacija - Prova d.o.o."></a>
+	</div>
+</div>";}}

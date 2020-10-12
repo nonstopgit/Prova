@@ -1,0 +1,77 @@
+items:
+    -
+        title: Domov
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: index
+        replace: 0
+        viewBag:
+            locale:
+                en:
+                    title: ''
+                    url: ''
+            isHidden: '1'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Dejavnosti
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: dejavnosti
+        replace: 0
+        viewBag:
+            locale:
+                en:
+                    title: ''
+                    url: ''
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Reference
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: reference
+        replace: 0
+        viewBag:
+            locale:
+                en:
+                    title: ''
+                    url: ''
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Povezave
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: povezave
+        replace: 0
+        viewBag:
+            locale:
+                en:
+                    title: ''
+                    url: ''
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+    -
+        title: Podjetje
+        nesting: 0
+        type: static-page
+        code: ''
+        reference: podjetje
+        replace: 0
+        viewBag:
+            locale:
+                en:
+                    title: ''
+                    url: ''
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+name: menu-sl

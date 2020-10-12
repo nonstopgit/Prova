@@ -1,0 +1,8 @@
+1602520705a:1:{s:22:"dejavnosti-submenu.htm";a:7:{s:8:"fileName";s:22:"dejavnosti-submenu.htm";s:7:"content";s:177:"[viewBag]
+snippetCode = "dejavnosti-submenu"
+snippetName = "Dejavnosti Submenu"
+
+[staticMenuMultilingual]
+code = "dejavnosti-submenu"
+==
+{% component 'staticMenuMultilingual' %}";s:5:"mtime";i:1602515528;s:6:"markup";s:40:"{% component 'staticMenuMultilingual' %}";s:4:"code";N;s:7:"viewBag";a:2:{s:11:"snippetCode";s:18:"dejavnosti-submenu";s:11:"snippetName";s:18:"Dejavnosti Submenu";}s:22:"staticMenuMultilingual";a:1:{s:4:"code";s:18:"dejavnosti-submenu";}}}

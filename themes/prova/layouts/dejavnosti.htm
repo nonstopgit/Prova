@@ -1,0 +1,40 @@
+description = "Dejavnosti"
+
+[staticPage]
+useContent = 1
+default = 0
+==
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% partial 'head' %}
+  </head>
+  <body>
+    <header>
+      {% partial 'navbar' %}
+      {% partial 'header-title' %}
+    </header>
+
+    <section id="page">
+
+      <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-3 sub">
+                {% partial 'dejavnosti-submenu' %}
+            </div>
+            <div class="col-12 col-lg-8">
+                {% page %}
+            </div>
+        </div>        
+      </div>
+
+    </section>
+
+    <footer>
+      {% partial 'footer' %}
+    </footer>
+
+    {% partial 'scripts' %}
+
+  </body>
+</html>

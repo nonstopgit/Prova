@@ -1,0 +1,55 @@
+title = "Contact"
+url = "/contact"
+layout = "default"
+is_hidden = 0
+
+[genericForm]
+rules[name] = "required"
+rules[phone] = "required"
+rules[email] = "required|email"
+rules[message] = "required"
+rules_messages[name.required] = "Please enter your name"
+rules_messages[phone.required] = "Please enter your phone"
+rules_messages[email.required] = "Please enter your e-mail"
+rules_messages[message.required] = "Please enter your message"
+messages_success = "Your form was successfully submitted"
+messages_errors = "There were errors with your submission"
+mail_enabled = 1
+mail_subject = "Solodiesel - New message from {{ form.name }}"
+mail_recipients[] = "info@solodiesel.eu"
+mail_bcc[] = "sasa@eve.si"
+mail_replyto = "{{ form.email }}"
+reset_form = 1
+inline_errors = "display"
+sanitize_data = "disabled"
+anonymize_ip = "disabled"
+recaptcha_enabled = 1
+recaptcha_theme = "dark"
+recaptcha_type = "image"
+recaptcha_size = "normal"
+emails_date_format = "Y-m-d"
+==
+<div class="row">
+	<div class="col-12 col-lg-6">
+
+		<p>
+			<br>
+		</p>
+
+		<h2>Alara d.o.o.</h2>Seidlova cesta 11
+		<br>8000 Novo mesto
+		<br>Slovenia
+		<br>
+		<br>Phone: +386 (0)7 39 34 456
+		<br>
+		<br>Fax: +386 (0)7 39 34 460
+		<br>
+		<br>E-mail: <a href="mailto:info@solodiesel.eu">info@solodiesel.eu</a>
+
+		<p>
+			<br>
+		</p>
+	</div>
+	<div class="col-12 col-lg-6">
+		{% component 'genericForm' %}
+	</div></div>

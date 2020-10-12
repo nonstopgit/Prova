@@ -1,0 +1,109 @@
+[viewBag]
+==
+<section class="form">
+    <p>You can send us your questions, comments, wishes and suggestions with the use of the form below. Please, fill out the form bellow and click on the send button. We assure You that you will receive your answer no later than in 2 working days.</p>
+    
+    <div id="{{ __SELF__ }}_forms_flash"></div>
+
+    <form data-request="{{ __SELF__ }}::onFormSubmit" data-request-validate id="inform">
+
+        {{ form_token() }}
+    
+ 
+        <!-- row 1 -->
+        <div class="row">
+
+            <div class="col">
+                <div class="form-group row">
+                    <label for="name" class="col-sm-12 control-label">{{ 'NameSurname'|_ }} *</label>
+                    <div class="col-sm-12">
+                        <div class="input-group">
+                            <input type="text" class="form-control" name="name" id="name"
+                                   placeholder="{{ 'form..msg.namesurname'|_ }}" value="">                            
+                        </div>
+                        <div data-validate-for="name" class="notify"></div>                        
+                    </div>                    
+                </div>
+            </div>
+        </div>
+
+        <!-- row 2 -->        
+        <div class="row">
+
+            <div class="col">
+                <div class="form-group row clearfix">
+                    <label for="phone" class="col-sm-12 control-label">{{ 'Phone'|_ }} *</label>
+                    <div class="col-sm-12">
+                        <div class="input-group">
+                            <input type="text" class="form-control" name="phone" id="phone"
+                                placeholder="{{ 'form.msg.phone'|_ }}" value="">
+                        </div>
+                        <div data-validate-for="phone" class="notify"></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+ 
+        <!-- row 3 -->        
+        <div class="row">
+
+            <div class="col-12">
+                <div class="form-group row clearfix">
+                    <label for="company" class="col-sm-12 control-label">{{ 'Company'|_ }}</label>
+                    <div class="col-sm-12">
+                        <div class="input-group">
+                            <input type="text" class="form-control" name="company" id="company"
+                                    placeholder="{{ 'form.msg.company'|_ }}" value="">
+                        </div>
+                        <div data-validate-for="company" class="notify"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- row 4 -->        
+        <div class="row">
+
+            <div class="col-12">
+                <div class="form-group row clearfix">
+                    <label for="email" class="col-sm-12 control-label">{{ 'E-mail'|_ }} *</label>
+                    <div class="col-sm-12">
+                        <div class="input-group">
+                            <input type="text" class="form-control" name="email" id="email"
+                                    placeholder="{{ 'form.msg.email'|_ }}" value="">
+                        </div>
+                        <div data-validate-for="email" class="notify"></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- row 5 -->        
+        <div class="row">
+
+            <div class="col-12">
+                <div class="form-group row clearfix">
+                    <label for="email" class="col-sm-12 control-label">{{ 'Message'|_ }} *</label>
+                    <div class="col-sm-12">
+                        <div class="input-group">
+                            <textarea rows="5" class="form-control" name="message" id="message"
+                                placeholder="{{ 'form.msg.message'|_ }}"></textarea>
+                        </div>
+                        <div data-validate-for="message" class="notify"></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="form-group">
+            {% partial '@recaptcha' %}
+        </div>
+    
+        <button id="simpleContactSubmitButton" type="submit" class="btn btn-default">Submit</button>
+    
+    </form>
+
+</section>

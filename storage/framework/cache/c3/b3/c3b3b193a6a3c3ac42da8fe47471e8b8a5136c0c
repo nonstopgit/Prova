@@ -1,0 +1,87 @@
+1602521224a:1:{s:8:"home.htm";a:7:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:1108:"description = "Home"
+
+[staticPage]
+useContent = 1
+default = 0
+==
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% partial 'head' %}
+  </head>
+  <body>
+    <header>
+        {% partial 'navbar' %}
+  
+        {repeater name="slider" label="Slider" prompt="Add another content section" tab="Slider"}
+          {variable name="slidercaption" label="Slider Caption" type="richeditor" size="small"}{/variable}
+          {variable name="slide" label="Image" type="mediafinder" mode="image"}{/variable}
+        {/repeater}
+        {#<div class="container">
+          <div class="row d-flex align-content-stretch flex-wrap">            
+            <div class="col-12 col-lg-7">
+              {% partial 'slider' %}
+            </div>
+            <div class="col-12 col-lg-5 bnftcnt">
+              {% partial 'benefits' %}
+            </div>
+          </div>
+        </div>#}
+      </header>
+
+    <section id="page" class="home">
+
+      <div class="container">
+        {% page %}
+      </div>
+
+    </section>
+
+    <footer>
+      {% partial 'footer' %}
+    </footer>
+
+    {% partial 'scripts' %}
+    
+  </body>
+</html>";s:5:"mtime";i:1602513336;s:6:"markup";s:1043:"<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% partial 'head' %}
+  </head>
+  <body>
+    <header>
+        {% partial 'navbar' %}
+  
+        {repeater name="slider" label="Slider" prompt="Add another content section" tab="Slider"}
+          {variable name="slidercaption" label="Slider Caption" type="richeditor" size="small"}{/variable}
+          {variable name="slide" label="Image" type="mediafinder" mode="image"}{/variable}
+        {/repeater}
+        {#<div class="container">
+          <div class="row d-flex align-content-stretch flex-wrap">            
+            <div class="col-12 col-lg-7">
+              {% partial 'slider' %}
+            </div>
+            <div class="col-12 col-lg-5 bnftcnt">
+              {% partial 'benefits' %}
+            </div>
+          </div>
+        </div>#}
+      </header>
+
+    <section id="page" class="home">
+
+      <div class="container">
+        {% page %}
+      </div>
+
+    </section>
+
+    <footer>
+      {% partial 'footer' %}
+    </footer>
+
+    {% partial 'scripts' %}
+    
+  </body>
+</html>";s:4:"code";N;s:11:"description";s:4:"Home";s:10:"staticPage";a:2:{s:10:"useContent";s:1:"1";s:7:"default";s:1:"0";}}}

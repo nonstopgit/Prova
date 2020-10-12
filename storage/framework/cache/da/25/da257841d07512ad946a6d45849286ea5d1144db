@@ -1,0 +1,11 @@
+1602520705a:1:{s:10:"footer.htm";a:5:{s:8:"fileName";s:10:"footer.htm";s:7:"content";s:417:"<div class="container">
+    <div class="row">
+        <div class="col-12 col-md-6 text-center text-md-left"><a href="/"><img class="logo lazyload" src="/themes/prova/assets/images/prova-logo.png" data-src="/themes/prova/assets/images/prova-logo.png" alt="ProVa"></a></div>
+        <div class="col-12 col-md-6 text-center text-md-right">Copyright &copy; {{ "now"|date("Y") }}, Prova d.o.o.</div>
+    </div>
+</div>";s:5:"mtime";i:1602513157;s:6:"markup";s:417:"<div class="container">
+    <div class="row">
+        <div class="col-12 col-md-6 text-center text-md-left"><a href="/"><img class="logo lazyload" src="/themes/prova/assets/images/prova-logo.png" data-src="/themes/prova/assets/images/prova-logo.png" alt="ProVa"></a></div>
+        <div class="col-12 col-md-6 text-center text-md-right">Copyright &copy; {{ "now"|date("Y") }}, Prova d.o.o.</div>
+    </div>
+</div>";s:4:"code";N;}}
