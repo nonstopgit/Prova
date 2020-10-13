@@ -1,19 +1,28 @@
-    <script src="{{ [
-      'assets/vendor/jquery/dist/jquery.min.js',
-      'assets/vendor/tether/dist/js/tether.min.js',
-      'assets/vendor/bootstrap/dist/js/bootstrap.min.js',
-      'assets/vendor/wow/dist/wow.min.js',
-      'assets/vendor/holderjs/holder.min.js',
-      'assets/vendor/plyr/dist/plyr.js',
-      'assets/vendor/lazyload/dist/lazyload.min.js',
-      'assets/js/scripts.js'
-    ]|theme }}"></script>
-    {% scripts %}
-    {% framework extras %}
-    <script>
-      $(document).ready(function () {
+<script src="{{ [
+  'assets/vendor/jquery/dist/jquery.min.js',
+  'assets/vendor/tether/dist/js/tether.min.js',
+  'assets/vendor/bootstrap/dist/js/bootstrap.min.js',
+  'assets/vendor/wow/dist/wow.min.js',
+  'assets/vendor/holderjs/holder.min.js',
+  'assets/vendor/plyr/dist/plyr.js',
+  'assets/vendor/lazyload/dist/lazyload.min.js',
+  'assets/js/scripts.js'
+]|theme }}"></script>
+{% scripts %}
+{% framework extras %}
+<script>
+  $(document).ready(function () {
 
-        //lazyload();
+    //lazyload();
 
-      });      
-    </script>
+  });      
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-98455217-8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-98455217-8');
+</script>
