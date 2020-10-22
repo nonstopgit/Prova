@@ -1,4 +1,4 @@
-1602520705a:1:{s:16:"header-title.htm";a:5:{s:8:"fileName";s:16:"header-title.htm";s:7:"content";s:721:"{#% if header %}
+1603269060a:1:{s:16:"header-title.htm";a:5:{s:8:"fileName";s:16:"header-title.htm";s:7:"content";s:721:"{#% if header %}
     {% set headerImage = header|media %}
 {% else %}
     {% set headerImage = "/storage/app/media/content/header/header-sample.jpg" %}

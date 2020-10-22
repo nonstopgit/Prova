@@ -1,37 +1,56 @@
-1602520705a:1:{s:11:"scripts.htm";a:5:{s:8:"fileName";s:11:"scripts.htm";s:7:"content";s:586:"    <script src="{{ [
-      'assets/vendor/jquery/dist/jquery.min.js',
-      'assets/vendor/tether/dist/js/tether.min.js',
-      'assets/vendor/bootstrap/dist/js/bootstrap.min.js',
-      'assets/vendor/wow/dist/wow.min.js',
-      'assets/vendor/holderjs/holder.min.js',
-      'assets/vendor/plyr/dist/plyr.js',
-      'assets/vendor/lazyload/dist/lazyload.min.js',
-      'assets/js/scripts.js'
-    ]|theme }}"></script>
-    {% scripts %}
-    {% framework extras %}
-    <script>
-      $(document).ready(function () {
+1603269060a:1:{s:11:"scripts.htm";a:5:{s:8:"fileName";s:11:"scripts.htm";s:7:"content";s:843:"<script src="{{ [
+  'assets/vendor/jquery/dist/jquery.min.js',
+  'assets/vendor/tether/dist/js/tether.min.js',
+  'assets/vendor/bootstrap/dist/js/bootstrap.min.js',
+  'assets/vendor/wow/dist/wow.min.js',
+  'assets/vendor/holderjs/holder.min.js',
+  'assets/vendor/plyr/dist/plyr.js',
+  'assets/vendor/lazyload/dist/lazyload.min.js',
+  'assets/js/scripts.js'
+]|theme }}"></script>
+{% scripts %}
+{% framework extras %}
+<script>
+  $(document).ready(function () {
 
-        //lazyload();
+    //lazyload();
 
-      });      
-    </script>";s:5:"mtime";i:1601301878;s:6:"markup";s:582:"<script src="{{ [
-      'assets/vendor/jquery/dist/jquery.min.js',
-      'assets/vendor/tether/dist/js/tether.min.js',
-      'assets/vendor/bootstrap/dist/js/bootstrap.min.js',
-      'assets/vendor/wow/dist/wow.min.js',
-      'assets/vendor/holderjs/holder.min.js',
-      'assets/vendor/plyr/dist/plyr.js',
-      'assets/vendor/lazyload/dist/lazyload.min.js',
-      'assets/js/scripts.js'
-    ]|theme }}"></script>
-    {% scripts %}
-    {% framework extras %}
-    <script>
-      $(document).ready(function () {
+  });      
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-98455217-8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-        //lazyload();
+  gtag('config', 'UA-98455217-8');
+</script>
+";s:5:"mtime";i:1602568647;s:6:"markup";s:841:"<script src="{{ [
+  'assets/vendor/jquery/dist/jquery.min.js',
+  'assets/vendor/tether/dist/js/tether.min.js',
+  'assets/vendor/bootstrap/dist/js/bootstrap.min.js',
+  'assets/vendor/wow/dist/wow.min.js',
+  'assets/vendor/holderjs/holder.min.js',
+  'assets/vendor/plyr/dist/plyr.js',
+  'assets/vendor/lazyload/dist/lazyload.min.js',
+  'assets/js/scripts.js'
+]|theme }}"></script>
+{% scripts %}
+{% framework extras %}
+<script>
+  $(document).ready(function () {
 
-      });      
-    </script>";s:4:"code";N;}}
+    //lazyload();
+
+  });      
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-98455217-8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-98455217-8');
+</script>";s:4:"code";N;}}
